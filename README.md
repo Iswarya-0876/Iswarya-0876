@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Iswarya-0876/Iswarya-0876/main/assets/banner.png" alt="Banner" width="100%" />
+  <img src=""C:\Users\win\Downloads\Banner.png"" alt="Banner" width="100%" />
 </p>
 
 # Hi 👋 I'm Iswarya
