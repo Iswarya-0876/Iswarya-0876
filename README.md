@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Iswarya
 
-<!--
-**Iswarya-0876/Iswarya-0876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AIML Student at NIMS University  
+💻 Passionate about Artificial Intelligence, Machine Learning & Deep Learning  
+🧠 Interested in Agentic AI, Neural Networks & Computer Vision  
+📚 Currently learning Deep Learning and AI Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- Machine Learning
+- TensorFlow
+- OpenCV
+- Pandas
+- NumPy
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+---
+
+## 📌 Projects
+
+### 🩺 Diabetes Prediction System
+Machine learning project for predicting diabetes using medical datasets.
+
+### 😷 Face Mask Detection
+Computer vision project using OpenCV and TensorFlow.
+
+### 🤖 AI Voice Assistant (In Progress)
+Personalized AI assistant supporting voice interaction and accessibility features.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN
+- Email: YOUR_EMAIL
+
+---
+
+⭐ “Learning AI by building real-world projects.”
