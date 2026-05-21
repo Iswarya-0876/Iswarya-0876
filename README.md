@@ -35,8 +35,8 @@ Personalized AI assistant supporting voice interaction and accessibility feature
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- LinkedIn: www.linkedin.com/in/iswarya-v-ai
+- Email: iswaryavijayakesavan08@gmail.com
 
 ---
 
