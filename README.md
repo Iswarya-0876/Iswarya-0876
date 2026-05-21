@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Iswarya-0876/Iswarya-0876/main/assets/banner.png" alt="Banner" width="100%" />
+</p>
+
 # Hi 👋 I'm Iswarya
 
 🎓 B.Tech AIML Student at NIMS University  
