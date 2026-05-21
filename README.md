@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=""C:\Users\win\Downloads\Banner.png"" alt="Banner" width="100%" />
-</p>
-
 # Hi 👋 I'm Iswarya
 
 🎓 B.Tech AIML Student at NIMS University  
